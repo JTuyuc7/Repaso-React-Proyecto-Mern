@@ -1,0 +1,32 @@
+export const FORMULARIO_PROYECTO = 'FORMULARIO_PROYECTO';
+export const OBTENER_PROYECTOS = 'OBTENER_DATOS';
+export const AGREGAR_PROYECTO = 'AGREGAR_PROYECTO';
+export const VALIDAR_FORMULARIO = 'VALIDAR_FORMULARIO';
+export const PROYECTO_ACTUAL = 'PROYECTO_ACTUAL';
+export const ELIMINAR_PROYECTO = 'ELIMINAR_PROYECTO';
+
+//Types para tareas
+export const OBTENER_TAREAS = 'OBTENER_TAREAS';
+export const AGREGAR_TAREA = 'AGREGAR_TAREA';
+export const MOSTRAR_ERROR = 'MOSTRAR_ERROR';
+export const ELIMINAR_TAREA = 'ELIMINAR_TAREA';
+export const ESTADO_TAREA = 'ESTADO_TAREA';
+export const TAREA_ACTUAL = 'EDITAR_TAREA';
+export const ACTUALIZAR_TAREA = 'ACTUALIZAR_TAREA';
+export const LIMPIAR_TAREA = 'RESETEAR_TAREA';
+
+// Types para las alertas
+export const MOSTRAR_ALERTA = 'MOSTRAR_ALERTA';
+export const OCULTAR_ALERTA = 'OCULTAR_ALERTA';
+
+
+// Types para la autenticacion
+export const REGISTRO_EXITOSO = 'REGISTRO_EXITOSO';
+export const REGISTRO_ERROR = 'REGISTRO_ERROR';
+export const OBTENER_USUARIO = 'OBTENER_USUARIO';
+export const LOGIN_EXITOSO = 'LOGIN_EXITOSO';
+export const LOGIN_ERROR = 'LOGIN_ERROR';
+export const CERRAR_SESION = 'CERRAR_SESION';
+
+// Type para las alertas de los errores
+export const PROYECTO_ERROR = 'MOSTRAR_ERROR_ALERTAS';
